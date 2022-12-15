@@ -1,0 +1,5 @@
+uzduotis:
+padarykite naive bayes modeli titanic dataset'ui. Jums reikia sukurti modeli, kuris prognozuotu, ar keleivis
+isgyvens katastrofa.
+
+Panaudokit jusu pasirinktus 5 kategorinius kintamuosius. Ziurekite, kad kintamieji tarpusavyje kuo maziau koreliuotu.
